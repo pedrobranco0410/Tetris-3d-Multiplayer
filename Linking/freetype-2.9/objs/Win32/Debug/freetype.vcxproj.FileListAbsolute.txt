@@ -1,0 +1,2 @@
+C:\Users\pedro\Desktop\Tetris 3D\Linking\freetype-2.9\objs\Win32\Debug\freetype.dll
+C:\Users\pedro\Desktop\Tetris 3D\Linking\freetype-2.9\objs\Win32\Debug\freetype.pdb
